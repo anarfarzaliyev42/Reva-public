@@ -108,7 +108,11 @@ body{
     }
     .btn-home{
         bottom: 30% !important;
+        left: 28% !important;
 
+    }
+    .anime-text{
+        left: 21% !important;
     }
     .lent .layer, .lent-image {
         width: 116vw !important;
@@ -118,7 +122,17 @@ body{
         width: 116vw !important;
        
     }
-
+    .layer-header-text{
+        left: 21% !important;
+    }
+    .right-btn{
+     
+        right: 31px !important;
+    }
+    .left-btn{
+        right: 90px !important;
+    }
+ 
     
 }
 @media (min-width: 1200px) {
