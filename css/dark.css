@@ -1,0 +1,139 @@
+body{
+    background-color:black;
+}
+.navbar{
+    background-color: black;
+}
+.navbar-nav{
+    box-shadow: -3px 5px 12px black;
+}
+.left-btn{
+    background-color: black;
+}
+.right-btn{
+    background-color: black;
+}
+.active{
+    background-color: black;
+}
+.gear-check{
+    background-color: black;
+}
+
+.color-option{
+    background-color: black;
+}
+.navbar-toggler{
+    background-color: black;
+}
+.navbar-active{
+    background-color: black;
+}
+
+.serv .serv-vid .play{
+    background-color: black;
+}
+.serv-vid  a{
+    background-color: black;
+}
+footer {
+    background-color: black;
+}
+.gear-check i{
+    color: white;
+}
+.collapse-menu i{
+    color: white;
+}
+.navbar .nav-item {
+    border-bottom: 1px solid #1d1d1d;
+}
+.navbar .nav-item a {
+    color: #ccc;
+}
+.social-media a, .navbar .nav-item a {
+    color: #ccc;
+}
+.navbar {
+    border-right: 1px solid #000;
+}
+.default, .green, .pink, .blue, .purple {
+   
+    border: 1px solid white;
+}
+.theme .dark, .light {
+
+    border: 1px solid white;
+}
+.light{
+    background-color: white;
+}
+.theme-second-row span{
+    color: white;
+}
+.title p {
+    position: relative;
+    font-size: 42px;
+    color: white;
+}
+.title p:before {
+ 
+    position: absolute;
+    color: #efefef;
+    text-transform: uppercase;
+    left: -1px;
+    font-size: 38px;
+    top: 17px;
+    color: rgb(35, 35, 35);
+    z-index: -1;
+}
+.tab-content p {
+    color: rgb(170, 170, 170);
+}
+.nav-item a i,span{
+    color: rgb(238, 238, 238);
+}
+.nav-tabs {
+    border-bottom: 1px solid #1d1d1d ;
+}
+.content h4,p{
+   color: rgb(170, 170, 170);
+}
+.serv-vid a {
+    background-color: white;
+}
+.shuffle ul li {
+    color: white;
+}
+.profile-details i{
+    color: white;
+}
+.contact-row .form {
+    color: #495057;
+}
+.btn-home a{
+    color: white;
+}
+.infos i{
+    color: white;
+}
+.infos a{
+    color: white;
+}
+.infos p{
+    color: rgba(255, 255, 255, 0.11);
+}
+.send-btn input{
+    color: white;
+}
+
+.info-img h4,span{
+    color:white;
+    }
+
+.gallery .over i{
+    color: white;
+}
+.gallery .item .over{
+    background-color: rgba(0, 0, 0, 0.425);
+}

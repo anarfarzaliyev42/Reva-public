@@ -1,0 +1,200 @@
+body{
+    background-color:white;
+}
+.nav-item a{
+    color: #1e1e1e;
+}
+.navbar{
+    background-color: white;
+    border-right: 1px solid #eee;
+}
+.navbar-nav{
+    box-shadow: -3px 5px 12px white;
+}
+.left-btn{
+      background-color: rgba(255, 255, 255, 0.8);
+}
+.right-btn{
+    background-color: rgba(255, 255, 255, 0.8);
+}
+.active{
+    background-color: white;
+}
+.btn-home a{
+    color: #fff;
+}
+.btn-download a{
+    color: #fff;
+}
+.progress-text{
+    color: #333;
+}
+.progress-bar::before{
+    color: black;
+    background-color: white;
+}
+.btn-skill a{
+    color: #fff;
+}
+.title-services p:before{
+    color: #efefef;
+}
+.serv .serv-vid .play{
+    background-color: #fff;
+}
+.gear-check{
+    background-color: white;
+    color: #333;
+}
+.gear-check i{
+    color: black;
+}
+
+.color-option{
+    background-color: white;
+}
+.navbar-toggler{
+    background-color: #fff;
+    border: 1px solid #ddd;
+}
+.navbar-active{
+    background-color: white;
+}
+
+.serv-vid  a{
+    background-color: #fff;
+}
+.serv-vid  a:hover i{
+    color:  white;
+}
+footer {
+    background-color: white;
+}
+
+.collapse-menu i{
+    color: white;
+}
+.navbar .nav-item {
+    border-bottom: 1px solid #eee;
+}
+.navbar .nav-item a {
+    color: #333;
+}
+.social-media a, .navbar .nav-item a {
+    color: #333;
+}
+
+.default, .green, .pink, .blue, .purple {
+   
+    border: 1px solid #555;
+}
+.theme .dark, .light {
+
+    border: 1px solid #555;
+}
+.dark{
+    background-color: black;
+}
+.light{
+    background-color: white;
+}
+.theme-second-row span{
+    color: black;
+}
+.title p {
+    position: relative;
+    font-size: 42px;
+    color: black;
+}
+.title p:before {
+ 
+    position: absolute;
+    color: #efefef;
+    text-transform: uppercase;
+    left: -1px;
+    font-size: 38px;
+    top: 17px;
+   
+    z-index: -1;
+}
+.tab-content p {
+    color: black;
+}
+
+.nav-tabs {
+    border-bottom: 1px solid #eee;
+}
+.content h4,p{
+    color: black;
+}
+.left-profile-content {
+
+    color: black;
+   
+}
+.shuffle-li-active{
+
+    color: white;
+}
+.serv-vid a {
+    background-color: white;
+}
+
+.profile-details i{
+    color: black;
+}
+.contact-row .form {
+    color: #495057;
+}
+.about-profile-tab-color{
+    color: #777;
+}
+.send-btn input{
+    color: white;
+}
+.open-map, .close-map{
+    color: white;
+}
+.infos i{
+    color: white;
+}
+.infos a{
+    color: white;
+}
+.address span{
+    color: white;
+}
+.text-uppercase {
+    color: rgba(255, 255, 255, 0.11);   
+}
+.btn-home a{
+    color: white;
+}
+.infos{
+    box-shadow: -3px 6px 23px rgba(144, 144, 144, 0.46);
+}
+.collapse-menu i {
+    color: black;
+}
+.marketing ,.graphic ,.web  h4,span{
+    color:white ;
+    }
+
+.gallery .over i{
+    color: white;
+}
+.gallery .item .over{
+    background-color: rgba(0, 0, 0, 0.425);
+}
+.navbar .nav-item a span {
+    color: #333 !important;
+}
+.about-page .about-profile-tab-color {
+    color: #777;
+}
+.about-page .left-profile-content {
+    color: black;
+}
+.about-page  .nav-item span{
+    color: black;
+}

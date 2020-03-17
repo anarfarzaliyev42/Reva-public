@@ -1,0 +1,107 @@
+.active-nav{
+    border-bottom: 2px solid #b0914f !important;
+
+}
+.active-nav-logo{
+    color: #b0914f !important;
+}
+.social-media a:hover{
+    color: #b0914f;
+}
+.left-btn{
+  
+    color: #b0914f;
+ 
+}
+.right-btn{
+    color: #b0914f;
+}
+.btn-home a{
+    background-color: #b0914f;
+    
+}
+.line1,.line2, .line3{
+    background-color: rgb(176, 145, 79);
+   
+}
+.about-li-active{
+    border-top: 2px solid #b0914f !important;
+}
+.btn-download a{
+    background-color: #b0914f;
+  
+}
+.progress-bar{
+    background-color: #b0914f;
+   
+  
+}
+.progress-bar{
+    background-color: #b0914f;
+   
+}
+.btn-skill a{
+    background-color: #b0914f;
+  
+}
+.serv-vid  a:hover{
+    background-color: #b0914f;
+   
+}
+.serv-vid  a i{
+    color:  #b0914f ;
+}
+.shuffle ul li.active,  .shuffle ul li {
+    border: 1px solid #b0914f;
+}
+.shuffle-li-active{
+    background-color: #b0914f;
+ 
+}
+.profile-details {
+  
+    border: 1px solid #b0914f;
+    
+
+}
+.profile-details h4 {
+    color: #b0914f;
+}
+.active .image-tab {
+    border: 2px solid #b0914f;
+}
+ .image-tab {
+    border: 2px solid #b0914f;
+}
+.blur-layer{
+    background-color: rgba(176, 145, 79, 0.7);
+
+}
+.form-group input {
+    border-bottom: 2px solid #b0914f !important;
+    
+}
+.form-group textarea {
+    border-bottom: 2px solid #b0914f !important;
+
+}
+.send-btn input.btn {
+  
+    background-color: #b0914f;
+ 
+}
+.infos {
+  
+    background: linear-gradient(to right, #9f8348 0%, #caa75d 100%);
+}
+.map-button{
+    
+    background-color: #b0914f;
+  
+    
+}
+footer p a {
+    
+    color: #b0914f;
+}
+
