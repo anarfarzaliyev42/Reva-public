@@ -156,7 +156,7 @@ body{
     height:100vh;
 }
 
-.lent div{
+.lent .layer, .lent-image{
     width: 105vw !important;
     position: absolute;
     
@@ -237,6 +237,7 @@ body{
     position: absolute;
     top: 0;
     right: -100%;
+    opacity: 0;
     z-index: 9999;
     text-align: center;
     transition: all 0.5s ease-in-out;
@@ -994,15 +995,16 @@ footer p a {
 .typing-effect-text{
     position: absolute;
     top:252px;
-
+    width: 100%;
   }
 .layer-header-text span{
       font-size: 55px;
       font-weight: bold;
   }
 .layer-header-text{
-    top: 25%;
-    
+    top: 28%;
+    position: absolute;
     left: 12%;
+
 }
   
