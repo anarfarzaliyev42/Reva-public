@@ -106,6 +106,9 @@ body{
         left: -220px;
         height: 572px;
     }
+    .social-media{
+        bottom: 21px;
+    }
     .navbar-nav {
         
         height: 366px !important;
