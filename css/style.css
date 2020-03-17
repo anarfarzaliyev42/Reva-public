@@ -127,10 +127,10 @@ body{
     }
     .right-btn{
      
-        right: 31px !important;
+        right: 85px !important;
     }
     .left-btn{
-        right: 90px !important;
+        right: 158px !important;
     }
  
     
@@ -138,6 +138,12 @@ body{
 @media (min-width: 1200px) {
     .navbar{
         left: 0px !important;
+    }
+    
+}
+@media (max-width: 576px) {
+    .right-slider{
+        right: 15px !important;
     }
     
 }
