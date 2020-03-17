@@ -104,7 +104,11 @@ body{
 @media (max-width: 992px) {
     .navbar{
         left: -220px;
-        height: 100vh;
+        height: 497px;
+    }
+    .nav-item {
+        margin: 3px 0 !important;
+       
     }
     .btn-home{
         bottom: 30% !important;
