@@ -125,13 +125,7 @@ body{
     .layer-header-text{
         left: 21% !important;
     }
-    .right-btn{
-     
-        right: 85px !important;
-    }
-    .left-btn{
-        right: 158px !important;
-    }
+   
  
     
 }
@@ -144,6 +138,13 @@ body{
 @media (max-width: 576px) {
     .right-slider{
         right: 15px !important;
+    }
+    .right-btn{
+     
+        right: 31% !important;
+    }
+    .left-btn{
+        right: 51% !important;
     }
     
 }
