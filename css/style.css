@@ -126,11 +126,11 @@ body{
         left: 21% !important;
     }
     .lent .layer, .lent-image {
-        width: 100vw !important;
+        width: 105vw !important;
        
     }
     .lent img {
-        width: 100vw !important;
+        width: 105vw !important;
        
     }
     .layer-header-text{
@@ -147,6 +147,14 @@ body{
     
 }
 @media (max-width: 576px) {
+    .lent .layer, .lent-image {
+        width: 100vw !important;
+       
+    }
+    .lent img {
+        width: 100vw !important;
+       
+    }
     .right-slider{
         right: 15px !important;
     }
@@ -159,6 +167,7 @@ body{
     }
     
 }
+
 .collapse-menu i{
     
     font-weight: bolder;
