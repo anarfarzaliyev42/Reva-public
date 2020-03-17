@@ -159,11 +159,13 @@ function reverseType() {
             
             if (bool) {
               $('.color-option').css('opacity',1);
+              $('.color-option').show();
               $(".color-option").addClass("option-box-extended");
               $(".gear-check").addClass("gear-check-extended");
               bool = false;
             } else {
               $('.color-option').css('opacity',0);
+              $('.color-option').hide();
               $(".color-option").removeClass("option-box-extended");
               $(".gear-check").removeClass("gear-check-extended");
               bool = true;

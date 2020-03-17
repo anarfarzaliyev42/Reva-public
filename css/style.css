@@ -141,7 +141,7 @@ body{
     position: relative ;
 }
 .lent img{
-    width: 105vw !important;
+    width: 102.5vw !important;
     height: 100vh;
     opacity: 0 ;
   
@@ -157,7 +157,7 @@ body{
 }
 
 .lent .layer, .lent-image{
-    width: 105vw !important;
+    width:  102.5vw !important;
     position: absolute;
     
 }
@@ -238,6 +238,7 @@ body{
     top: 0;
     right: -100%;
     opacity: 0;
+    display: none;
     z-index: 9999;
     text-align: center;
     transition: all 0.5s ease-in-out;
