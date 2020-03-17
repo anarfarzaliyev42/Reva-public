@@ -104,11 +104,15 @@ body{
 @media (max-width: 992px) {
     .navbar{
         left: -220px;
-        height: auto;
+        height: 573px;
     }
     .btn-home{
         bottom: 30% !important;
 
+    }
+    .lent .layer, .lent-image {
+        width: 105vw;
+       
     }
 
     
@@ -161,7 +165,7 @@ body{
 }
 
 .lent .layer, .lent-image{
-    width:  102.5vw !important;
+    width:  102.5vw ;
     position: absolute;
     
 }
@@ -983,7 +987,7 @@ footer p a {
     top: 90px;
   }
 .layer{
-    width: 1066px !important;
+ 
     height: 100vh;
     background-color: rgba(0, 0, 0, 0.349);
     position: absolute;
